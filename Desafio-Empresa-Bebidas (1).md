@@ -1,6 +1,6 @@
 # Briefing do Cliente: Apuração de Campanha de Vendas
 
-## Objetivo
+## Objetivommmmmm
 
 A área comercial da **Bebidas Premium** precisa apurar o resultado de uma campanha de vendas a partir das bases de Sell-Out, metas e dicionário de dados disponíveis no pacote do projeto.
 
